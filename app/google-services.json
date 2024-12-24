@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "831442668858",
+    "project_id": "madic-de",
+    "storage_bucket": "madic-de.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:831442668858:android:72acfd92fa9e39e82c5403",
+        "android_client_info": {
+          "package_name": "com.example.magic_demo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGrUllyiNufo8hhfmQ54C_tgfiaJHMWqI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
